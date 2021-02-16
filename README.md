@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikas-magic
-- 👀 I’m interested in music, travel & 
+- 👀 I’m interested in music, traveling etc
 - 🌱 I’m currently learning Node.js, Tailwind CSS & React Native
 - 💞️ I’m looking to collaborate on Tailwind CSS
 - 📫 How to reach me katal.viku@gmail.com
